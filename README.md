@@ -1,4 +1,4 @@
-## Fala galera! Eu sou o João Victor Ribeiro 
+## Hi i'm João Victor Ribeiro!
 
 <div> 
   <a href="https://github.com/jvictorribeiro">
